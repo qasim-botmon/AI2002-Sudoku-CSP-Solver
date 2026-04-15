@@ -10,7 +10,7 @@ This repository contains my solution for Question 3 of AI2002 Assignment 05 (Spr
 - MRV heuristic
 
 ## Files
-- `sudoku_solver.py` → Python implementation
+- `CSP-Sudoku.py` → Python implementation
 
 ## How to Run
 1. Clone the repository:
